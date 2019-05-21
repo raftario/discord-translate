@@ -1,0 +1,11 @@
+{
+  "throwErrors": true,
+  "verbose": true,
+  "delCommands": true,
+  "owner": "1234567890",
+  "roles": [
+    "1234567890",
+    "1234567890"
+  ],
+  "prefix": "?"
+}
