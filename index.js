@@ -10,10 +10,7 @@ const jsonfile = require('jsonfile')
 const configFile = path.join(__dirname, 'config.json')
 const config = {}
 const users = {}
-const locales = {
-  en: 'English',
-  fr: 'French'
-}
+const locales = {}
 
 function catchError (err) {
   if (config.throwErrors) throw err
